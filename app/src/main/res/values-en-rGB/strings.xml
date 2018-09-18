@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_message">Hello Mate</string>
+    <string name="ButtonText">I\'m a British button</string>
+    <string name="LoginText"> Login Mate</string>
+    <string name="Password">Password for UK</string>
+    <string name="Switch">What does this do Mate?</string>
+    <string name="CheckBox">CheckBox For UK</string>
+    <string name="RadioButton">British RadioButton</string>
+</resources>
